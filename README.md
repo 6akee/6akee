@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![](https://komarev.com/ghpvc/?username=6akee&color=yellowgreen)
+
 <br />
 
 I'm Bauyrzhan, a web developer!

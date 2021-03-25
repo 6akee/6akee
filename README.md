@@ -4,7 +4,7 @@
 
 <br />
 
-I'm Bauyrzhan, a web developer!
+I'm Bauyrzhan, a Front-end Developer!
 
 -  I’m currently learning ** Angular and Vue **
 

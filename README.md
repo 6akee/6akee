@@ -8,7 +8,7 @@ I'm Bauyrzhan, a Front-end Developer!
 
 -  I’m currently learning ** Angular and Vue **-  
 
--  How to reach me [![almassov telegram](https://img.shields.io/badge/Telegram-%40almassov-blue?style=plastic&logo=telegram&link=https://t.me/almassov)](https://t.me/almassov)
+-  How to reach me   [![almassov telegram](https://img.shields.io/badge/Telegram-%40almassov-blue?style=plastic&logo=telegram&link=https://t.me/almassov)](https://t.me/almassov)
   [![almassov.bauyrzhan@gmail.com e-mail](https://img.shields.io/badge/Gmail-almassov.bauyrzhan@gmail.com-red?style=plastic&logo=gmail&link=mailto:almassov.bauyrzhan@gmail.com)](mailto:almassov.bauyrzhan@gmail.com)
 
 

@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
- My name is Bauyrzhan I am glad to see you on my page.
+### My name is Bauyrzhan, I am glad to see you on my page.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

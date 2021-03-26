@@ -13,13 +13,6 @@
   <img align="left" alt="Bauyrzhan Telegram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 </p>
-<p align="right">
-<a href="mailto:vladymyrivanchenko3@gmail.com">
-  <img align="left" alt="Bauyrzhan Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
-</a>
-</p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

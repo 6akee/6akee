@@ -8,9 +8,8 @@ I'm Bauyrzhan, a Front-end Developer!
 
 -  I’m currently learning ** Angular and Vue **
 
--  All of my projects are available at [https://github.com/6akee](https://github.com/6akee)
-
--  How to reach me **almassov.bauyrzhan@gmail.com**
+-  How to reach me [![almassov telegram](https://img.shields.io/badge/Telegram-%40Vladimir_Elys1um-blue?style=plastic&logo=telegram&link=https://t.me/Vladimir_Elys1um)](https://t.me/almassov)
+  [![almassov.bauyrzhan@gmail.com e-mail](https://img.shields.io/badge/Gmail-almassov.bauyrzhan@gmail.com-red?style=plastic&logo=gmail&link=mailto:almassov.bauyrzhan@gmail.com)](mailto:almassov.bauyrzhan@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>

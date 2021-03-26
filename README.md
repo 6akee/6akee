@@ -3,21 +3,21 @@
 ![](https://komarev.com/ghpvc/?username=6akee&color=yellowgreen)
 
 <br />
--  I’m Bauyrzhan a Front-end Developer
+ I’m Bauyrzhan a Front-end Developer
 
 
 
-<h3 align="left">How to reach me:</h3>
-   <p align="left">
+<h3 align="left">How to reach me:</h3><p align="left">
 <a href="https://t.me/almassov/">
-  <img align="left" alt="Bauyrzhan Telegram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+  <img align="left" alt="Bauyrzhan Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 </p>
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/almassov/">
-  <img align="left" alt="Bauyrzhan LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bauyrzhan LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
 <br />

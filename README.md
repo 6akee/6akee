@@ -3,18 +3,19 @@
 ![](https://komarev.com/ghpvc/?username=6akee&color=yellowgreen)
 
 <br />
+-  I’m Bauyrzhan a Front-end Developer
 
 
--  I’m currently learning  ** Angular and Vue **  
 
--  How to reach me    [![almassov telegram](https://img.shields.io/badge/Telegram-%40almassov-blue?style=plastic&logo=telegram&link=https://t.me/almassov)](https://t.me/almassov)
+<h3 align="left">How to reach me:</h3>
+   [![almassov telegram](https://img.shields.io/badge/Telegram-%40almassov-blue?style=plastic&logo=telegram&link=https://t.me/almassov)](https://t.me/almassov)
   [![almassov.bauyrzhan@gmail.com e-mail](https://img.shields.io/badge/Gmail-almassov.bauyrzhan@gmail.com-red?style=plastic&logo=gmail&link=mailto:almassov.bauyrzhan@gmail.com)](mailto:almassov.bauyrzhan@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/almassov/">
-  <img align="left" alt="Sepehr's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bauyrzhan LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
 <br />

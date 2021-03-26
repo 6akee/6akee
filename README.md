@@ -1,7 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://komarev.com/ghpvc/?username=6akee&color=yellowgreen)
-
 <br />
  I’m Bauyrzhan a Front-end Developer
 
@@ -19,3 +17,5 @@
 
  [![almassov telegram](https://img.shields.io/badge/Telegram-%40almassov-blue?style=plastic&logo=telegram&link=https://t.me/almassov)](https://t.me/almassov)
   [![almassov.bauyrzhan@gmail.com e-mail](https://img.shields.io/badge/Gmail-almassov.bauyrzhan@gmail.com-red?style=plastic&logo=gmail&link=mailto:almassov.bauyrzhan@gmail.com)](mailto:almassov.bauyrzhan@gmail.com)
+
+![Profile views](https://gpvc.arturio.dev/6akee)

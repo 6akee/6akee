@@ -14,6 +14,5 @@ My name is Bauyrzhan, I am glad to see you on my page.
 
 
  [![almassov telegram](https://img.shields.io/badge/Telegram-%40almassov-blue?style=plastic&logo=telegram&link=https://t.me/almassov)](https://t.me/almassov)
-  [![almassov.bauyrzhan@gmail.com e-mail](https://img.shields.io/badge/Gmail-almassov.bauyrzhan@gmail.com-red?style=plastic&logo=gmail&link=mailto:almassov.bauyrzhan@gmail.com)](mailto:almassov.bauyrzhan@gmail.com)
-
+ 
 ![Profile views](https://gpvc.arturio.dev/6akee)

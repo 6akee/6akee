@@ -4,9 +4,7 @@
 
 </h1>
 
-<p align="center">
-
-<p align="center">
+<h3 align="center">
 My name is Bauyrzhan, I am glad to see you on my page.
 
 <h3 align="left">Connect with me:</h3>

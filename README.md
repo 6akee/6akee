@@ -1,6 +1,5 @@
 <h1> Hi, I'm Bauyrzhan!</h1>
-<p><em>Junior Software Developer at <a href="https://halykbank.kz/">Halyk Bank</a>
-</em></p>
+<p>Junior Software Developer at <a href="https://halykbank.kz/">Halyk Bank</a></p>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almassov/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almassov.bauyrzhan@gmail.com)

@@ -10,7 +10,7 @@
 
 ```javascript
 const Bauyrzhan = {
-  code: [Python, Javascript, Typescript ],
+  code: [Python, Javascript, Typescript],
   tools: [React, Node, SQL, Git],
   learning:[MongoDB, PostgreSQL],
   game:[Chess]

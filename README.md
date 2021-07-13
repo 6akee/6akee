@@ -7,12 +7,6 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/almassov)
 <br />
 
-<h2 align="left">
-
-<img style="height: 50px" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
-
-</h2>
-
 ### A little more about me...  
 
 ```javascript

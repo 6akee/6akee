@@ -1,6 +1,5 @@
 <h1> Hi, I'm Bauyrzhan!</h1>
 <p>Junior Software Developer at <a href="https://halykbank.kz/">Halyk Bank</a></p>
-<p>Student of the <a href="https://www.freecodecamp.org/">freeCodeCamp platform</a></p>
 
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almassov/)

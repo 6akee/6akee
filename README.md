@@ -12,7 +12,7 @@
 ```javascript
 const Bauyrzhan = {
   code: [Python, Javascript],
-  tools: [React, Django, PostgreSQL, Git],
+  tools: [React, Django, Git],
   learning:[Algorithms],
   game:[Chess]
 }

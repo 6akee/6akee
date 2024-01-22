@@ -1,4 +1,4 @@
-## Hi there 👽
+# Hi there 👽
 
 **Languages and Tools:**  
 
@@ -13,8 +13,9 @@
   ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=36465D&logoColor=AAA&style=flat-square&link=)
   ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 
+  
+**Reach me at [LinkedIn](https://www.linkedin.com/in/almassov/)**
+
 </div>
 
-
-
-![Bauyrzhan's github stats](https://github-readme-stats.vercel.app/api?username=6akee&show_icons=true&hide_border=true)
+#

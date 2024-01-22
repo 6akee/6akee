@@ -1,21 +1,5 @@
 ### Hi there
 
-<br />
-<br />
-
-Hi, I'm Victor Williams, a Full Stack Developer 🚀 from Philadelphia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BankMobile](https://bankmobile.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
-
-  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Rust; 
-- 👯 I’m looking to collaborate on DevPost;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: vrwilliams719@gmail.com;
-- 📝[Resume](https://vaporjawn.github.io/Resume.html)
 
 **Languages and Tools:**  
 
@@ -28,4 +12,4 @@ Hi, I'm Victor Williams, a Full Stack Developer 🚀 from Philadelphia, currentl
 
 
 
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=6akee&show_icons=true&hide_border=true)
+![Bauyrzhan's github stats](https://github-readme-stats.vercel.app/api?username=6akee&show_icons=true&hide_border=true)

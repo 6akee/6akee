@@ -1,14 +1,19 @@
-### Hi there
-
+## Hi there 👽
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rabbitmq/rabbitmq.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<div align="left">
+
+  ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![fastapi](https://img.shields.io/static/v1?logo=fastapi&label=&message=fastapi&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![rabbitmq](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=rabbitmq&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=36465D&logoColor=AAA&style=flat-square&link=)
+  ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+
+</div>
 
 
 

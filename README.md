@@ -1,21 +1,25 @@
-# Hi there 👽
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-**Languages and Tools:**  
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
+- 🌐 &nbsp;
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
-<div align="left">
+- 🛢 &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<br/>
 
-  ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![fastapi](https://img.shields.io/static/v1?logo=fastapi&label=&message=fastapi&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![rabbitmq](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=rabbitmq&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=36465D&logoColor=AAA&style=flat-square&link=)
-  ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+<a href="https://github.com/6akee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6akee&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6akee&theme=buefy&layout=compact" />
+</a>
 
-  
+<br/>
+
 **Reach me at [LinkedIn](https://www.linkedin.com/in/almassov/)**
-
-</div>
-
-#

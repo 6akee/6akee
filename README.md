@@ -1,25 +1,16 @@
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### Hi there 👋
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
-- 🌐 &nbsp;
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+Software developer work with Python, JS, React, FastAPI, RabbitMQ 
+and like solve [leetcode problems](https://leetcode.com/almassov/)
 
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-<br/>
+Social media:
 
-<a href="https://github.com/6akee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=6akee&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6akee&theme=buefy&layout=compact" />
-</a>
+- My dev-website in process ...
+  
+- [LinkedIn](https://www.linkedin.com/in/almassov/)
 
-<br/>
+![github stats](https://github-readme-stats.vercel.app/api?username=6akee&show_icons=true)
 
-**Reach me at [LinkedIn](https://www.linkedin.com/in/almassov/)**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=6akee&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=6akee&color=ff69b4)

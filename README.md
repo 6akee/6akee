@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Bauyrzhan 👋
 
 
 ## Connect me
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 
-## Stack
+## Languages and Tools
 
 <img  src="https://img.shields.io/badge/Python-8382E3?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/JavaScript-fff200?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;

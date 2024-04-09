@@ -14,8 +14,10 @@
 
 <img  src="https://img.shields.io/badge/Python-8382E3?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/JavaScript-fff200?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+<img  src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/FastAPI-%230077B5?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/React-b33939?style=for-the-badge&logo=react&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 
 ## Github stats
 
